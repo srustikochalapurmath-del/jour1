@@ -1,4 +1,4 @@
-from student import student_details
+from journal1 import student_details
 
 def test_student_details():
     expected_output = (
